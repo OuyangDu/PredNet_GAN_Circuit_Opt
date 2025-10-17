@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+ECHO is on.
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+ECHO is on.
+# Large folders anywhere
+**/data/
+**/models/
+**/expt/
+**/runs/
+**/outputs/
+**/logs/
+ECHO is on.
+# Large binary artifacts anywhere
+**/*.pkl
+**/*.npz
+**/*.npy
+**/*.hdf5
+**/*.pt
+**/*.ckpt

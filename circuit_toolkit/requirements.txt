@@ -1,0 +1,5 @@
+timm
+python-pptx
+easydict
+pytorch_pretrained_biggan
+imageio

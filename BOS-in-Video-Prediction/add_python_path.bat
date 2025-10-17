@@ -1,0 +1,6 @@
+@ECHO OFF
+set PYTHONPATH=%PYTHONPATH%;%cd%;
+set PYTHON_COMPUTING_DEVICE=local_computer
+echo PYTHONPATH successfully set to: %PYTHONPATH%
+echo PYTHON_COMPUTING_DEVICE set to: %PYTHON_COMPUTING_DEVICE%
+pause
