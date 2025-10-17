@@ -1,4 +1,4 @@
-\# PredNet / GAN / Circuit Toolkit (three-project bundle)
+# PredNet / GAN / Circuit Toolkit (three-project bundle)
 
 
 
@@ -6,7 +6,7 @@ This Project only uses CPU.
 
 
 
-\#Debugging: 
+#Debugging: 
 
 
 
@@ -22,13 +22,13 @@ It uses \*\*two Conda environments\*\*:
 
 
 
-\- \*\*border\_ownership\*\* — PredNet / analysis side
+- \*\*border\_ownership\*\* — PredNet / analysis side
 
-\- \*\*ct\_cpupy310\*\*     — GAN optimizer / circuit\_toolkit side
+- \*\*ct\_cpupy310\*\*     — GAN optimizer / circuit\_toolkit side
 
 
 
-\## Setup
+## Setup
 
 Create the environments from specs in `envs/`:
 
